@@ -10,5 +10,4 @@ Nos ajude a tornar a área da saúde mais eficiente e humana, venha fazer parte 
 
 # Vagas
 
-- [Front-End Developer Sênior](https://github.com/frontendbr/vagas/issues/418)
-- [Front-End Developer Pleno](https://github.com/frontendbr/vagas/issues/419)
+- [Full Stack Developer Pleno/Sênior](https://github.com/phpdevbr/vagas/issues/113)
